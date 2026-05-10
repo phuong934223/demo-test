@@ -1,0 +1,10 @@
+node_modules
+.venv/
+.bun/
+.agent-browser/
+.cache/
+.git/
+*.lock
+my-project/.git/
+backup/agent-browser/
+backup/cache/
