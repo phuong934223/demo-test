@@ -1,0 +1,18 @@
+0 verbose cli /usr/bin/node /usr/bin/npm
+1 info using npm@11.12.1
+2 info using node@v24.15.0
+3 silly config load:file:/usr/lib/node_modules/npm/npmrc
+4 silly config load:file:/home/z/.npmrc
+5 silly config load:file:/home/z/.npm-global/etc/npmrc
+6 verbose title npm list z-ai-web-dev-sdk
+7 verbose argv "list" "z-ai-web-dev-sdk"
+8 verbose logfile logs-max:10 dir:/home/z/.npm/_logs/2026-05-10T15_36_41_771Z-
+9 verbose logfile /home/z/.npm/_logs/2026-05-10T15_36_41_771Z-debug-0.log
+10 silly logfile done cleaning log files
+11 silly packumentCache heap:2348810240 maxSize:587202560 maxEntrySize:293601280
+12 verbose cwd /home/z/my-project
+13 verbose os Linux 5.10.134-013.8.1.kangaroo.al8.x86_64
+14 verbose node v24.15.0
+15 verbose npm  v11.12.1
+16 verbose exit 1
+17 verbose code 1

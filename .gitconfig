@@ -1,0 +1,7 @@
+[safe]
+	directory = /home/z/my-project
+[user]
+	email = buiphuong1211@applevt.com
+	name = phuong934223
+[init]
+	defaultBranch = main
